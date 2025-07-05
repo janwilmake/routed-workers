@@ -1,0 +1,9 @@
+{
+  "$schema": "https://unpkg.com/wrangler@latest/config-schema.json",
+  "compatibility_date": "2025-07-05",
+  "name": "wilmake-routeworkers",
+  "assets": {
+    "directory": "./"
+  },
+  "route": { "custom_domain": true, "pattern": "routeworkers.wilmake.com" }
+}
