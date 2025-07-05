@@ -1,0 +1,7 @@
+{
+  "$schema": "https://unpkg.com/wrangler@latest/config-schema.json",
+  "compatibility_date": "2025-07-05",
+  "name": "routed-worker-b",
+  "main": "b.js",
+  "route": { "zone_name": "wilmake.com", "pattern": "wilmake.com/b" }
+}
