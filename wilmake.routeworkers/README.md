@@ -12,3 +12,9 @@ Nice to have?
 - truly OSS by design?
 - fast partial redeployment?
 - worker files can import/require frontend js files, and vice versa
+
+Benefits
+
+- workers become smaller, standalone, scripts.
+- deployments can be parallelized, thus faster.
+- remove the need for having a wrangler-per-worker completely! bindings automatically bound.
